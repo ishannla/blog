@@ -1,7 +1,20 @@
 ---
 ---
 
-## 🤷 What I do
+<img id="portrait" src="/assets/me.jpg" alt="Headshot">
+
+Hello! 
+
+I am a recent graduate of the [Paul G. Allen School](https://www.cs.washington.edu) at the University of Washington, where I majored in Computer Science with a specialization in Data Science. My interests center around computer security + information systems. 
+
+This fall, I will be joining Microsoft’s [Security & Compliance](https://servicetrust.microsoft.com/ViewPage/SCCIntroPage) team within Office 365. 
+
+I’ll be using this space to explore **intersections between tech, business, and public policy**. 
+By looking into historical trends within these areas, *I hope to reflect on where society is heading*. 
+
+In my free time, I enjoy watching the Premier League, rock climbing (here’s a [compilation](https://vsco.co/ishannla/gallery) of some of my recent climbs), and firing up my Xbox for some [FIFA/Halo](https://vimeo.com/user116679776). 
+
+## Previously,
 
 I'm majoring in Urban Planning with Computer Science & minoring in Comparative Media Studies. On campus, I dance, (try to) sing, & fry eggs at midnight with my friends.
 
