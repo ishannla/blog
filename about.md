@@ -1,5 +1,2 @@
 ---
-title: About
 ---
-
-henlo uwu
