@@ -1,7 +1,7 @@
 ---
 ---
 
-<img id="portrait" src="blog/assets/me.jpg" alt="Headshot">  <!-- NEED TO REMOVE 'BLOG' FOR FINAL DOMAIN -->
+<img id="portrait" src="assets/me.jpg" alt="Headshot"> 
 
 Hello! 
 
